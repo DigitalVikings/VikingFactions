@@ -1,0 +1,11 @@
+{
+  "name": "VikingFactions",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/DigitalVikings/VikingFactions",
+  "description": "Dynamic Wayfarer Mead Hall hospitality, extensible Marauder heist warbands, and procedural retaliation camps built on VikingAI.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202",
+    "ValheimModding-Jotunn-2.20.1",
+    "DigitalVikings-VikingAI-0.1.0"
+  ]
+}

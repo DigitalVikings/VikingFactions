@@ -1,0 +1,12 @@
+﻿# Changelog
+
+All notable changes to **VikingFactions** will be documented in this file.
+
+## [0.1.0] - 2026-10-25
+
+### Added
+- **Wayfarers & Mead Hall Hospitality**: High-comfort sheltered halls with lit hearths attract wandering Viking travelers who rest by the fire, eat from communal chests, sleep in free beds, and depart if neglected.
+- **Physical Raider Warbands & Camps**: Base raids manifest as physical warbands (Exile Marauders, Draugr Reavers, Fuling Plunderers) marching from real fortified camps.
+- **Chest Heist Mechanics**: Raiders breach defenses to siphon goods from storage chests, slowing down under heavy loads as they retreat toward their camp with stolen loot.
+- **Bounty Retaliation**: Intercept raiders on the road to recover stolen goods, or assault their map-marked camp to reclaim your loot and claim the Warlord's bounty.
+- **Configurable Raid Interception**: Server-authoritative settings allow vanilla raids to seamlessly convert into physical camp assaults or remain in standard arcade mode.
