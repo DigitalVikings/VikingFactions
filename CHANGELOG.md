@@ -1,4 +1,4 @@
-﻿# Changelog
+# Changelog
 
 All notable changes to **VikingFactions** will be documented in this file.
 
